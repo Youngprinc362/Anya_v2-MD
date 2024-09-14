@@ -24,11 +24,11 @@
             "required": false
          },
          "Owner_Name": {
-            "description": "Enter owner's name",
+            "description": "Young Prince",
             "required": true
          },
          "Owner_Number": {
-            "description": "Enter Owner's Number with country code",
+            "description": "263780858655",
             "required": true
          },
          "Insta": {
@@ -48,7 +48,7 @@
             "required": false
          },
          "GcLink": {
-            "description": "Enter your group link",
+            "description": "https://chat.whatsapp.com/FWbBB26iQlz5GzFgzXBtN1",
             "required": false
          },
          "Warn_Limits": {
@@ -64,11 +64,11 @@
              "required": false
          },
          "MongoDB": {
-            "description": "Enter your mongodb connection url",
+            "description": "mongodb+srv://youngprinc362:mukudzei2022@cluster0.5z6nl.mongodb.net/?retryWrites=true&w=majority",
             "required": true
          },
          "SESSION_ID": {
-            "description": "Enter your session id",
+            "description": "anpyNDV_Queen-Anya_3Z3c=",
             "required": true
          }
     },
